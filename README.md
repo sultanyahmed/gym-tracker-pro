@@ -13,10 +13,10 @@ A comprehensive fitness tracking application built with React, TypeScript, and S
 ## Tech Stack
 
 - React
-- TypeScript
-- Tailwind CSS
+- HTML
+- Python
+- Js script
 - Supabase
-- Vite
 
 ## Getting Started
 
